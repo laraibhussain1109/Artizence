@@ -1,0 +1,72 @@
+avg_runs_last5,avg_wkts_last5,team_momentum,team_home,team_away,match_date,match_winner,win_score,loss_score
+,,,Chennai Super Kings,Gujarat Titans,1711411200,Chennai Super Kings,63.0,0.0
+207.0,0.0,1.0,Chennai Super Kings,Sunrisers Hyderabad,1712275200,Sunrisers Hyderabad,0.0,6.0
+186.5,3.0,0.5,Chennai Super Kings,Mumbai Indians,1713052800,Chennai Super Kings,20.0,0.0
+193.33333333333334,2.0,0.6666666666666666,Chennai Super Kings,Lucknow Super Giants,1713484800,Lucknow Super Giants,0.0,8.0
+189.25,3.5,0.5,Chennai Super Kings,Lucknow Super Giants,1713830400,Lucknow Super Giants,0.0,6.0
+193.6,4.0,0.4,Chennai Super Kings,Sunrisers Hyderabad,1714262400,Chennai Super Kings,78.0,0.0
+194.8,4.0,0.4,Chennai Super Kings,Punjab Kings,1714521600,Punjab Kings,0.0,7.0
+194.2,4.2,0.4,Chennai Super Kings,Punjab Kings,1714867200,Chennai Super Kings,28.0,0.0
+,,,Delhi Capitals,Punjab Kings,1711152000,Punjab Kings,0.0,4.0
+175.0,4.0,0.0,Delhi Capitals,Chennai Super Kings,1711843200,Delhi Capitals,20.0,0.0
+183.5,2.0,0.5,Delhi Capitals,Gujarat Titans,1713916800,Delhi Capitals,4.0,0.0
+197.33333333333334,1.3333333333333333,0.6666666666666666,Delhi Capitals,Mumbai Indians,1714176000,Delhi Capitals,10.0,0.0
+212.5,1.0,0.75,Delhi Capitals,Kolkata Knight Riders,1714348800,Kolkata Knight Riders,0.0,7.0
+200.8,2.2,0.6,Delhi Capitals,Rajasthan Royals,1715040000,Delhi Capitals,20.0,0.0
+210.2,1.4,0.8,Delhi Capitals,Lucknow Super Giants,1715644800,Delhi Capitals,19.0,0.0
+,,,Gujarat Titans,Mumbai Indians,1711238400,Gujarat Titans,6.0,0.0
+169.0,0.0,1.0,Gujarat Titans,Punjab Kings,1712188800,Punjab Kings,0.0,3.0
+184.5,1.5,0.5,Gujarat Titans,Delhi Capitals,1713312000,Delhi Capitals,0.0,6.0
+153.0,3.0,0.3333333333333333,Gujarat Titans,Royal Challengers Bengaluru,1714262400,Royal Challengers Bengaluru,0.0,9.0
+165.0,4.5,0.25,Gujarat Titans,Royal Challengers Bengaluru,1714780800,Royal Challengers Bengaluru,0.0,4.0
+161.6,4.4,0.2,Gujarat Titans,Chennai Super Kings,1715299200,Gujarat Titans,35.0,0.0
+,,,Kolkata Knight Riders,Sunrisers Hyderabad,1711152000,Kolkata Knight Riders,4.0,0.0
+209.0,0.0,1.0,Kolkata Knight Riders,Delhi Capitals,1712102400,Kolkata Knight Riders,106.0,0.0
+241.0,0.0,1.0,Kolkata Knight Riders,Chennai Super Kings,1712534400,Chennai Super Kings,0.0,7.0
+206.66666666666666,2.3333333333333335,0.6666666666666666,Kolkata Knight Riders,Rajasthan Royals,1713225600,Rajasthan Royals,0.0,2.0
+211.0,2.25,0.5,Kolkata Knight Riders,Royal Challengers Bengaluru,1713657600,Kolkata Knight Riders,1.0,0.0
+213.4,1.8,0.6,Kolkata Knight Riders,Punjab Kings,1714089600,Punjab Kings,0.0,8.0
+224.0,3.4,0.4,Kolkata Knight Riders,Mumbai Indians,1714694400,Kolkata Knight Riders,24.0,0.0
+203.4,3.4,0.4,Kolkata Knight Riders,Lucknow Super Giants,1714867200,Kolkata Knight Riders,98.0,0.0
+223.0,2.0,0.6,Kolkata Knight Riders,Mumbai Indians,1715385600,Kolkata Knight Riders,18.0,0.0
+,,,Lucknow Super Giants,Punjab Kings,1711756800,Lucknow Super Giants,21.0,0.0
+200.0,0.0,1.0,Lucknow Super Giants,Royal Challengers Bengaluru,1712016000,Lucknow Super Giants,28.0,0.0
+191.0,0.0,1.0,Lucknow Super Giants,Gujarat Titans,1712448000,Lucknow Super Giants,33.0,0.0
+182.0,0.0,1.0,Lucknow Super Giants,Delhi Capitals,1712880000,Delhi Capitals,0.0,6.0
+178.5,1.5,0.75,Lucknow Super Giants,Kolkata Knight Riders,1713052800,Kolkata Knight Riders,0.0,8.0
+175.2,2.8,0.6,Lucknow Super Giants,Rajasthan Royals,1714176000,Rajasthan Royals,0.0,7.0
+174.6,4.2,0.4,Lucknow Super Giants,Sunrisers Hyderabad,1715126400,Sunrisers Hyderabad,0.0,10.0
+171.4,6.2,0.2,Lucknow Super Giants,Mumbai Indians,1715904000,Lucknow Super Giants,18.0,0.0
+,,,Mumbai Indians,Rajasthan Royals,1711929600,Rajasthan Royals,0.0,6.0
+126.0,6.0,0.0,Mumbai Indians,Delhi Capitals,1712448000,Mumbai Indians,29.0,0.0
+180.5,3.0,0.5,Mumbai Indians,Punjab Kings,1713398400,Mumbai Indians,9.0,0.0
+184.66666666666666,2.0,0.6666666666666666,Mumbai Indians,Rajasthan Royals,1713744000,Rajasthan Royals,0.0,9.0
+183.5,3.75,0.5,Mumbai Indians,Lucknow Super Giants,1714435200,Lucknow Super Giants,0.0,4.0
+,,,Punjab Kings,Royal Challengers Bengaluru,1711324800,Royal Challengers Bengaluru,0.0,4.0
+177.0,4.0,0.0,Punjab Kings,Rajasthan Royals,1712966400,Rajasthan Royals,0.0,3.0
+162.5,3.5,0.0,Punjab Kings,Gujarat Titans,1713657600,Gujarat Titans,0.0,3.0
+156.0,3.3333333333333335,0.0,Punjab Kings,Sunrisers Hyderabad,1716076800,Sunrisers Hyderabad,0.0,4.0
+,,,Rajasthan Royals,Lucknow Super Giants,1711238400,Rajasthan Royals,20.0,0.0
+194.0,0.0,1.0,Rajasthan Royals,Delhi Capitals,1711584000,Rajasthan Royals,12.0,0.0
+190.0,0.0,1.0,Rajasthan Royals,Gujarat Titans,1712707200,Gujarat Titans,0.0,3.0
+192.33333333333334,1.0,0.6666666666666666,Rajasthan Royals,Chennai Super Kings,1715472000,Chennai Super Kings,0.0,5.0
+179.75,2.0,0.5,Rajasthan Royals,Punjab Kings,1715731200,Punjab Kings,0.0,5.0
+,,,Royal Challengers Bengaluru,Chennai Super Kings,1711065600,Chennai Super Kings,0.0,6.0
+174.0,6.0,0.0,Royal Challengers Bengaluru,Kolkata Knight Riders,1711670400,Kolkata Knight Riders,0.0,7.0
+178.5,6.5,0.0,Royal Challengers Bengaluru,Rajasthan Royals,1712361600,Rajasthan Royals,0.0,6.0
+180.33333333333334,6.333333333333333,0.0,Royal Challengers Bengaluru,Mumbai Indians,1712793600,Mumbai Indians,0.0,7.0
+184.5,6.5,0.0,Royal Challengers Bengaluru,Sunrisers Hyderabad,1714003200,Royal Challengers Bengaluru,35.0,0.0
+189.0,5.2,0.2,Royal Challengers Bengaluru,Punjab Kings,1715212800,Royal Challengers Bengaluru,60.0,0.0
+202.6,4.0,0.4,Royal Challengers Bengaluru,Delhi Capitals,1715472000,Royal Challengers Bengaluru,47.0,0.0
+203.6,2.6,0.6,Royal Challengers Bengaluru,Chennai Super Kings,1715990400,Royal Challengers Bengaluru,27.0,0.0
+210.6,1.4,0.8,Royal Challengers Bengaluru,Rajasthan Royals,1716336000,Rajasthan Royals,0.0,4.0
+,,,Sunrisers Hyderabad,Mumbai Indians,1711497600,Sunrisers Hyderabad,31.0,0.0
+278.0,0.0,1.0,Sunrisers Hyderabad,Gujarat Titans,1711843200,Gujarat Titans,0.0,7.0
+220.5,3.5,0.5,Sunrisers Hyderabad,Punjab Kings,1712620800,Sunrisers Hyderabad,2.0,0.0
+208.0,2.3333333333333335,0.6666666666666666,Sunrisers Hyderabad,Royal Challengers Bengaluru,1713139200,Sunrisers Hyderabad,25.0,0.0
+228.0,1.75,0.75,Sunrisers Hyderabad,Delhi Capitals,1713571200,Sunrisers Hyderabad,67.0,0.0
+235.8,1.4,0.8,Sunrisers Hyderabad,Rajasthan Royals,1714608000,Sunrisers Hyderabad,1.0,0.0
+220.6,1.4,0.8,Sunrisers Hyderabad,Mumbai Indians,1714953600,Mumbai Indians,0.0,7.0
+222.8,1.4,0.8,Sunrisers Hyderabad,Kolkata Knight Riders,1716249600,Kolkata Knight Riders,0.0,8.0
+218.2,3.0,0.6,Sunrisers Hyderabad,Rajasthan Royals,1716508800,Sunrisers Hyderabad,36.0,0.0
+195.8,3.0,0.6,Sunrisers Hyderabad,Kolkata Knight Riders,1716681600,Kolkata Knight Riders,0.0,8.0
